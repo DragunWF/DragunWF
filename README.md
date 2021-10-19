@@ -17,4 +17,4 @@ My Itch.io Page:
 https://dragonwf.itch.io/
 - This is where I uploaded my games back when I was programming with
   GDscript, they aren't exactly good but I'm still proud of what I've
-  created
+  created.
