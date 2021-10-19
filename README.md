@@ -1,8 +1,8 @@
 Hallo, I'm DragonWF
 
 Description:
-- I'm a beginner at Python been actively learning about it, I plan
-  on going for computer science in college and after that I plan
+- I'm a beginner at Python and I've been actively learning more about it, 
+  I plan on going for computer science in college and after that I plan
   on going to a coding bootcamp. 
 - I hope to be a great programmer in the future!
 
