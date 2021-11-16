@@ -1,16 +1,19 @@
 Hallo, I'm DragonWF
 
 Description:
-- I'm a beginner at Python and I've been actively learning more about it, 
-  I plan on going for computer science in college and after that I plan
-  on going to a coding bootcamp. 
+- I'm just a programmer who's been actively trying to improve and code a lot
+  recently. I plan on taking Computer Science when I go to college and then
+  going to a coding bootcamp after that.
 - I hope to be a great programmer in the future!
 
-Programming Languages I use:
+Programming Languages:
 - Python
 - GDscript
+- JavaScript (Planning to learn)
+- C# (Planning to learn
+- Java (Planning to learn)
 
-Markup Languages I use:
+Markup Languages:
 - HTML
 
 My Itch.io Page:
