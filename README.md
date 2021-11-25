@@ -14,7 +14,8 @@ Programming Languages:
 - Java (Planning to learn)
 
 Markup Languages:
-- HTML
+- HTML5
+- CSS3
 
 My Itch.io Page:
 https://dragonwf.itch.io/
