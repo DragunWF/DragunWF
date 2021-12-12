@@ -9,7 +9,7 @@ Description:
 Programming Languages:
 - Python
 - GDscript
-- JavaScript (Planning to learn)
+- JavaScript
 - C# (Planning to learn
 - Java (Planning to learn)
 
