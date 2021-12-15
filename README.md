@@ -10,7 +10,7 @@ Programming Languages:
 - Python
 - GDscript
 - JavaScript
-- C# (Planning to learn
+- C# (Planning to learn)
 - Java (Planning to learn)
 
 Markup Languages:
