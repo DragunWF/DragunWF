@@ -12,7 +12,7 @@ Hallo, I'm DragonWF. ☄️
 - C# *(Planning to learn)*
 - Java *(Planning to learn)*
 
-**Markup Languages:** 🌿
+**Markup Languages:** ⚡
 - HTML5
 - CSS3
 
