@@ -16,3 +16,11 @@ Programming Languages:
 Markup Languages:
 - HTML5
 - CSS3
+
+Links to my other stuff:
+- https://dragonwf.netlify.app/
+- https://www.codewars.com/users/DragonWF
+- https://data.typeracer.com/pit/profile?user=dragonwf
+- https://www.chess.com/member/dragonwf1
+- https://steamcommunity.com/profiles/76561198201145658
+- https://dragonwf.itch.io/
