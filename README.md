@@ -20,6 +20,4 @@ Hallo, I'm DragonWF. ☄️
 - [My Website](https://dragonwf.netlify.app/)
 - [CodeWars](https://www.codewars.com/users/DragonWF)
 - [TypeRacer](https://data.typeracer.com/pit/profile?user=dragonwf)
-- [Chess](https://www.chess.com/member/dragonwf1)
-- [Steam](https://steamcommunity.com/profiles/76561198201145658)
 - [Itch.io](https://dragonwf.itch.io/)
