@@ -4,7 +4,7 @@ Hallo, I'm DragonWF. ☄️
 - I'm just a programmer who's been actively trying to improve and code a lot
   recently. I plan on taking BSIT when I go to college and then
   going to a coding bootcamp after that.
-- Most of my repositories here are private by the way...
+- *Most of my repositories here are private by the way...*
 
 **Programming Languages:** 🔥
 - Python
