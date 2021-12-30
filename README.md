@@ -2,8 +2,7 @@ Hallo, I'm DragonWF. ☄️
 
 **Description:** 💻
 - I'm just a programmer who's been actively trying to improve and code a lot
-  recently. I plan on taking BSIT when I go to college and then
-  going to a coding bootcamp to learn some extra skills after that.
+  recently. I plan on taking BSIT when I go to college.
 
 **Programming Languages:** 🔥
 - Python
