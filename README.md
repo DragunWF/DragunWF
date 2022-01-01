@@ -1,12 +1,8 @@
 # Welcome!
 
-Hallo, I'm DragonWF. ☄️
+Hallo, I'm DragonWF. I'm just a programmer who's been actively trying to improve and code a lot recently. I plan on taking BSIT when I go to college.
 
-**Description:** 💻
-- I'm just a programmer who's been actively trying to improve and code a lot
-  recently. I plan on taking BSIT when I go to college.
-
-**Programming Languages:** 🔥
+**Programming Languages:** 💻
 - Python
 - JavaScript
 - C# *(Planning to learn)*
