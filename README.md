@@ -1,6 +1,6 @@
 # Welcome!
 
-Hallo, I'm DragonWF. I'm just a programmer who's been actively trying to improve and code a lot recently. I plan on taking BSIT when I go to college.
+Hallo, I'm DragonWF. I'm just a programmer who's been actively trying to improve and code a lot recently. I plan on taking BSIT when I go to college. Don't expect much from me yet as I only have 3 months of experience.
 
 **Programming Languages:** 💻
 - Python
