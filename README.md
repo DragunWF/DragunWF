@@ -9,8 +9,8 @@
 ---
 
 ### Links to my other stuff:
-- [My Website](https://dragonwf.netlify.app/) :earth_asia:
-- [Itch.io](https://dragonwf.itch.io/) :video_game:
-- [CodeWars](https://www.codewars.com/users/DragonWF) :computer:
-- [TypeRacer](https://data.typeracer.com/pit/profile?user=dragonwf) :checkered_flag:
-- [Steam](https://steamcommunity.com/profiles/76561198201145658) :droplet:
+- :earth_asia: [My Website](https://dragonwf.netlify.app/) 
+- :video_game: [Itch.io](https://dragonwf.itch.io/) 
+- :computer: [CodeWars](https://www.codewars.com/users/DragonWF) 
+- :checkered_flag: [TypeRacer](https://data.typeracer.com/pit/profile?user=dragonwf) 
+- :droplet: [Steam](https://steamcommunity.com/profiles/76561198201145658)
