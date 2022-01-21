@@ -3,10 +3,10 @@
 Hallo, I'm DragonWF. I'm just a programmer who's been actively trying to improve and code a lot recently. I plan on taking BSIT when I go to college. Don't expect much from me yet as I only have 3 months of experience.
 
 **Programming Languages:** 💻
-- Python
-- JavaScript
-- C# *(Planning to learn)*
-- Java *(Planning to learn)*
+
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DragunWF)](https://github.com/anuraghazra/github-readme-stats)
 
 **Markup Languages:** ⚡
 - HTML5
