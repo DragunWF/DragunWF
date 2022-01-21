@@ -1,6 +1,8 @@
-# Welcome!
+# Welcome, I'm DragonWF!
 
-Hallo, I'm DragonWF. I'm just a programmer who's been actively trying to improve and code a lot recently. I plan on taking BSIT when I go to college. Don't expect much from me yet as I only have 3 months of experience.
+### Description:
+- Hello! I'm a senior high school student and a self-taught programmer with only 3 months of experience so don't expect much from me yet. :thumbsup:
+- I plan on getting BSIT in college and that's also why I've been going on a training arc recently to become better at programming. :mortar_board:
 
 ---
 
@@ -8,8 +10,9 @@ Hallo, I'm DragonWF. I'm just a programmer who's been actively trying to improve
 
 ---
 
-**Links to my other stuff:** 🍀
-- [My Website](https://dragonwf.netlify.app/)
-- [CodeWars](https://www.codewars.com/users/DragonWF)
-- [TypeRacer](https://data.typeracer.com/pit/profile?user=dragonwf)
-- [Itch.io](https://dragonwf.itch.io/)
+### Links to my other stuff:
+- [My Website](https://dragonwf.netlify.app/) :earth_asia:
+- [Itch.io](https://dragonwf.itch.io/) :video_game:
+- [CodeWars](https://www.codewars.com/users/DragonWF) :computer:
+- [TypeRacer](https://data.typeracer.com/pit/profile?user=dragonwf) :checkered_flag:
+- [Steam](https://steamcommunity.com/profiles/76561198201145658) :droplet:
