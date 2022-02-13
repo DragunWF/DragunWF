@@ -3,6 +3,8 @@
 ### Description:
 - Hello! I'm a **senior high school student** and a **self-taught programmer** with only 4 months of experience so don't expect much from me yet.
 - I plan on getting **BSIT** in college and that's also why I've been going on a training arc recently to become better at programming.
+- If you want to look at my recent code, I'd recommend taking a look at my most recent project, [Ancalagon](https://github.com/DragunWF/Ancalagon). My other
+  projects code is quite old and bad, my most recent one shows how I code nowadays (Which of course, **still needs some improvement**).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DragunWF&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
