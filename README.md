@@ -1,7 +1,7 @@
 # Welcome, I'm DragonWF!
 
 ### Description:
-- Hello! I'm a **senior high school student** and a **self-taught programmer** with only 5 months of experience so don't expect much from me yet.
+- Hello! I'm a **senior high school student** and a **self-taught programmer** with only 6 months of experience so don't expect much from me yet.
 - I plan on getting **BSIT** in college and that's also why I've been going on a training arc recently to become better at programming.
 - The coding languages I know fair enough are **Python**, **SQL**, **JavaScript**, **HTML**, and **CSS**.
 
