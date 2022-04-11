@@ -10,7 +10,7 @@
 ---
 
 ### Links to my other stuff:
-- :earth_asia: [My Website](https://dragonwf.netlify.app/) 
+- :earth_asia: [My Website](https://dragunwf.herokuapp.com/) 
 - :video_game: [Itch.io](https://dragonwf.itch.io/) 
 - :computer: [CodeWars](https://www.codewars.com/users/DragonWF) 
 - :checkered_flag: [TypeRacer](https://data.typeracer.com/pit/profile?user=dragonwf) 
