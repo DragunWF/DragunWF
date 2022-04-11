@@ -5,7 +5,7 @@
 - I plan on getting **BSIT** in college and that's also why I've been going on a training arc recently to become better at programming.
 - The coding languages I know fair enough are **Python**, **SQL**, **JavaScript**, **HTML**, and **CSS**.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DragunWF&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DragunWF&layout=compact&theme=merko&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
