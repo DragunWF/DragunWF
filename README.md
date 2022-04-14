@@ -1,8 +1,7 @@
 # Welcome, I'm DragonWF!
 
 ### Description:
-- Hello! I'm an aspiring Software Developer from the Philippines.
-- I plan on getting **BSIT** in college and that's also why I've been going on a training arc recently to become better at programming.
+- Hello! I'm an aspiring Software Developer from the Philippines. I'm currently a senior high school student with plans on taking **BSIT** in college.
 - The programming and markup languages I code in are **Python**, **C#**, **SQL**, **JavaScript**, **HTML**, and **CSS**.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DragunWF&layout=compact&theme=merko&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
