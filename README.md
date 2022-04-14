@@ -1,7 +1,7 @@
 # Welcome, I'm DragonWF!
 
 ### Description:
-- Hello! I'm a **senior high school student** and a **self-taught programmer**.
+- Hello! I'm an aspiring Software Developer from the Philippines.
 - I plan on getting **BSIT** in college and that's also why I've been going on a training arc recently to become better at programming.
 - The programming and markup languages I code in are **Python**, **C#**, **SQL**, **JavaScript**, **HTML**, and **CSS**.
 
