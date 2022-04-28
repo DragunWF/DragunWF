@@ -6,9 +6,11 @@
 - The programming and markup languages I code in are **Python**, **C#**, **SQL**, **JavaScript**, **HTML**, and **CSS**.
 
 <p align="center">
+  <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=Windows&logoColor=white">
+  <img src="https://img.shields.io/badge/OS-MacOS-informational?style=flat-square&logo=apple&logoColor=white">
   <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=DragunWF.DragunWF" />
-  <img src="https://img.shields.io/badge/Code_Editor-Visual_Studio_Code-informational?flat" />
-  <img src="https://img.shields.io/badge/IDE-Visual_Studio-informational?style=flat" />
+  <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDE-Visual_Studio-informational?style=flat&logo=visual-studio-code&logoColor=white" />
 </p>
 
 <div align="center">
