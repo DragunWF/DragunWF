@@ -15,7 +15,7 @@
 
 ---
 
-## Information
+<h2 align="center">Information</h2>
 
 ### Description
 
