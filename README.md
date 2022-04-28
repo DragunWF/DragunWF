@@ -1,9 +1,4 @@
-# Welcome to my profile!
-
-### Description:
-
-- Hello! I'm an aspiring Software Developer from the Philippines. I'm currently a senior high school student with plans on taking **BSIT** in college.
-- The programming and markup languages I code in are **Python**, **C#**, **SQL**, **JavaScript**, **HTML**, and **CSS**.
+<h1 align="center">Welcome to my GitHub page!</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=Windows&logoColor=white">
@@ -19,6 +14,14 @@
 </div>
 
 ---
+
+## Information
+
+### Description
+
+- Hello! I'm an aspiring Software Developer from the Philippines. I'm currently a senior high school student with plans on taking **BSIT** in college.
+  I'm on a training arc to learn more about software and technology.
+- The programming and markup languages I code in are **Python**, **C#**, **SQL**, **JavaScript**, **HTML**, and **CSS**.
 
 ### Links to my other stuff:
 
