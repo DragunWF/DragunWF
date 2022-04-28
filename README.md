@@ -5,16 +5,20 @@
 - Hello! I'm an aspiring Software Developer from the Philippines. I'm currently a senior high school student with plans on taking **BSIT** in college.
 - The programming and markup languages I code in are **Python**, **C#**, **SQL**, **JavaScript**, **HTML**, and **CSS**.
 
+---
+
 <p align="center">
   <img src="https://img.shields.io/github/followers/DragunWF?style=social" />
   <img src="https://img.shields.io/github/stars/DragunWF?style=social" />
   <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=DragunWF.DragunWF" />
   <img src="https://img.shields.io/badge/Code_Editor-Visual_Studio_Code-informational?style=flat" />
   <img src="https://img.shields.io/badge/IDE-Visual_Studio-informational?style=flat" />
-  <br />
-  <img width="306" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DragunWF&layout=compact&theme=merko&langs_count=6" />
-  <img width="367" src="https://github-readme-stats.vercel.app/api?username=DragunWF&theme=merko&show_icons=true&count_private=true&include_all_commits=true" />
 </p>
+
+<div align="center">
+  <img width="336" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DragunWF&layout=compact&theme=merko&langs_count=6" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=DragunWF&theme=merko&show_icons=true&count_private=true&include_all_commits=true" />
+</div>
 
 ---
 
