@@ -1,11 +1,9 @@
-# Welcome, I'm DragunWF!
+# Welcome to my profile!
 
 ### Description:
 
 - Hello! I'm an aspiring Software Developer from the Philippines. I'm currently a senior high school student with plans on taking **BSIT** in college.
 - The programming and markup languages I code in are **Python**, **C#**, **SQL**, **JavaScript**, **HTML**, and **CSS**.
-
----
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/DragunWF?style=social" />
