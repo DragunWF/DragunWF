@@ -20,10 +20,10 @@
 ### Description
 
 - Hello! I'm an aspiring Software Developer from the Philippines. I'm currently a senior high school student with plans on taking **BSIT** in college.
-  I'm on a training arc to learn more about software and technology.
+  I'm on a training arc to learn more about software, programming, and technology.
 - The programming and markup languages I code in are **Python**, **C#**, **SQL**, **JavaScript**, **HTML**, and **CSS**.
 
-### Links to my other stuff:
+### Links to my other stuff
 
 - :earth_asia: [My Website](https://dragunwf.herokuapp.com/)
 - :space_invader: [Itch.io](https://dragonwf.itch.io/)
