@@ -19,7 +19,7 @@
 
 ---
 
-<h1 align="center">Information</h2>
+<h1 align="center">Information</h1>
 
 ### Description
 
