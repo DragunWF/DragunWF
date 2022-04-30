@@ -9,8 +9,12 @@
 </p>
 
 <div align="center">
-  <img width="336" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DragunWF&layout=compact&theme=merko&langs_count=6" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=DragunWF&theme=merko&show_icons=true&count_private=true&include_all_commits=true" />
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img width="336" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DragunWF&layout=compact&theme=merko&langs_count=6" />
+  </a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
+    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=DragunWF&theme=merko">
+  </a>
 </div>
 
 ---
