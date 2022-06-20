@@ -23,8 +23,7 @@
 
 ### Description
 
-- Hello! I'm an aspiring Software Developer from the Philippines. I'm currently a senior high school student with plans on taking **BSIT** in 
-  college. I'm on a training arc to learn more about software, programming, and technology.
+- Hello! I'm an aspiring Software Developer from the Philippines. I'm currently an upcoming BSIT college student with plans on focusing in programming and software   development.
 - The programming and markup languages I code in are **Python**, **C#**, **SQL**, **JavaScript**, **HTML**, and **CSS**.
 - For a full list of my skills and the libraries/frameworks I work in, you can go to [this link](https://dragunwf.herokuapp.com/skills/more).
 
