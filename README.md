@@ -17,6 +17,8 @@
   </a>
 </div>
 
+[![DragunWF's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=DragunWF&&theme=xcode)](https://github.com/DragunWF)
+
 ---
 
 <h1 align="center">Information</h1>
