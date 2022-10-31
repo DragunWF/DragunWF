@@ -24,7 +24,7 @@
 ### Description
 
 - Hello! I'm an aspiring software developer from the Philippines. I'm currently a BSIT college student at my freshman year focusing in programming and software development **(Started College at September 5 2022)**.
-- I first started programming back at high school when I was 16 years old.
+- First started programming with actual code back at high school.
 - The programming and markup languages I code in are **Python**, **C**, **C#**, **Java**, **JavaScript**, **SQL**, **HTML**, and **CSS**.
 - For a full list of my skills and the libraries/frameworks I work in, you can go to [this link](https://dragunwf.herokuapp.com/skills/more).
 
