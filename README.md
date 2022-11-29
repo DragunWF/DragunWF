@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=Windows&logoColor=white">
+  <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white">
   <img src="https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white">
   <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=DragunWF.DragunWF" />
   <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white" />
@@ -24,7 +25,7 @@
 ### Description
 
 - Hello! I'm an aspiring software developer from the Philippines. I'm currently a BSIT college student at my freshman year focusing in programming and software development **(Started College at September 5 2022)**.
-- First started programming with actual code back at high school.
+- The operating systems I'm quite familiar with in using are **Windows**, **Linux (Mint)**, and **macOS**.
 - The programming and markup languages I code in are **Python**, **C**, **C#**, **Java**, **JavaScript**, **SQL**, **HTML**, and **CSS**.
 - For a full list of my skills and the libraries/frameworks I work in, you can go to [this link](https://dragunwf.herokuapp.com/skills/more).
 
