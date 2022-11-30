@@ -25,7 +25,7 @@
 ### Description
 
 - Hello! I'm an aspiring software developer from the Philippines. I'm currently a BSIT college student at my freshman year focusing in programming and software development **(Started College at September 5 2022)**.
-- The operating systems I'm quite familiar with in utilizing are **Windows**, **Linux Mint**, and **macOS**.
+- The operating systems I'm quite familiar with in utilizing are **Windows**, **Linux Mint**, and **macOS**. My favorite out of the three is **macOS**.
 - The programming and markup languages I code in are **Python**, **C**, **C#**, **Java**, **JavaScript**, **SQL**, **HTML**, and **CSS**.
 - For a full list of my skills and the libraries/frameworks I work in, you can go to [this link](https://dragunwf.herokuapp.com/skills/more).
 
