@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=Windows&logoColor=white">
   <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white">
   <img src="https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white">
-  <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=DragunWF.DragunWF" />
+  <img src="https://komarev.com/ghpvc/?username=DragunWF&color=007ec6&style=flat-square">
   <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/IDE-Visual_Studio-informational?style=flat&logo=visual-studio-code&logoColor=white" />
 </p>
@@ -29,6 +29,8 @@
 - The programming, scripting, and markup languages I code in are `Python`, `C`, `C#`, `Java`, `JavaScript`, `SQL`, `PowerShell`, `Bash`, `HTML`, and `CSS`.
 - My **favorite programming languages** are `C#` and `JavaScript`. My **preferred operating system** is `macOS`.
 - For a full list of my skills and the libraries/frameworks I work in, you can go to [this link](https://dragunwf.herokuapp.com/skills/more).
+
+**Note:** Profile views have been reset
 
 ### Links to my other stuff
 
