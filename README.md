@@ -30,8 +30,6 @@
 - My **favorite programming languages** are `C#` and `JavaScript`. My **preferred operating system** is `macOS`.
 - For a full list of my skills and the libraries/frameworks I work in, you can go to [this link](https://dragunwf.herokuapp.com/skills/more).
 
-**Note:** Profile views have been reset
-
 ### Links to my other stuff
 
 - :earth_asia: [My Website](https://dragunwf.herokuapp.com/)
