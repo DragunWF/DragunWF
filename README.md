@@ -28,11 +28,11 @@
 - The **operating systems** I'm quite familiar with in utilizing are `Windows`, `Linux`, and `macOS`. The Linux distros I've used so far are `Ubuntu` and `Mint`.
 - The programming, scripting, and markup languages I code in are `Python`, `C`, `C#`, `Java`, `JavaScript`, `SQL`, `PowerShell`, `Bash`, `HTML`, and `CSS`.
 - My **favorite programming languages** are `C#` and `JavaScript`. My **preferred operating system** is `macOS`.
-- For a full list of my skills and the libraries/frameworks I work in, you can go to [this link](https://dragunwf.herokuapp.com/skills/more).
+- For a full list of my skills and the libraries/frameworks I work in, you can go to [this link](https://dragunwf.up.railway.app/skills/more).
 
 ### Links to my other stuff
 
-- :earth_asia: [My Website](https://dragunwf.herokuapp.com/)
+- :earth_asia: [My Website](https://dragunwf.up.railway.app/)
 - :space_invader: [Itch.io](https://dragonwf.itch.io/)
 - :computer: [CodeWars](https://www.codewars.com/users/DragonWF)
 - :keyboard: [TypeRacer](https://data.typeracer.com/pit/profile?user=dragonwf)
