@@ -16,9 +16,6 @@
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=DragunWF&theme=merko">
   </a>
-  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DragunWF&theme=github_dark">
-    <img width="750" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DragunWF&theme=github_dark">
-  </a>
 </div>
 
 ---
