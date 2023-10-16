@@ -34,6 +34,6 @@
 
 - :earth_asia: [My Website](https://dragunwf.onrender.com/)
 - :space_invader: [Itch.io](https://dragonwf.itch.io/)
-- :computer: [CodeWars](https://www.codewars.com/users/DragonWF)
+- :computer: [CodeWars](https://www.codewars.com/users/DragunWF)
 - :keyboard: [TypeRacer](https://data.typeracer.com/pit/profile?user=dragonwf)
 - :video_game: [Steam](https://steamcommunity.com/profiles/76561198201145658)
