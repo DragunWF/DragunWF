@@ -28,6 +28,7 @@
 - The operating systems I'm quite familiar with in utilizing are `Windows`, `Linux`, and `macOS`. The Linux distros I've used so far are `Ubuntu` and `Mint`.
 - The programming, scripting, and markup languages I code in are `Python`, `C`, `C#`, `Java`, `JavaScript`, `SQL`, `PowerShell`, `Bash`, `HTML`, and `CSS`.
 - My **favorite programming languages** are `C#` and `Python`. My **preferred operating system** is `macOS`.
+- I do all sorts of things in the field of programming such as `Full-Stack Web Development`, `Mobile Development`, `Game Development`, `Automation`, and `Database Administration`.
 - For a full list of my skills and the libraries/frameworks I use frequently, you can go to [this link](https://dragunwf.up.railway.app/skills/more).
 
 ### Links to my other stuff
