@@ -30,7 +30,7 @@
 
 ### Description
 
-- Hello! I'm an **aspiring software developer** from the Philippines. I'm currently a **BSIT college student** at my 2nd year focusing in programming and software development - **Started College at September 5 2022**.
+- Hello! I'm an **aspiring software developer** from the Philippines. I'm currently a **BSIT college student** at my 3rd year focusing in programming and software development - **Started College at September 5 2022**.
 - The operating systems I'm quite familiar with in utilizing are `Windows`, `Linux`, and `macOS`. The Linux distros I've used so far are `Ubuntu` and `Mint`.
 - The programming, scripting, and markup languages I code in are `Python`, `C`, `C#`, `Java`, `JavaScript`, `SQL`, `PowerShell`, `Bash`, `HTML`, and `CSS`.
 - My **favorite programming languages** are `C#` and `Python`. My **preferred operating system** is `macOS`.
