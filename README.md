@@ -1,12 +1,17 @@
 <h1 align="center">Welcome to my GitHub page!</h1>
 
 <p align="center">
+  <a href="https://www.codewars.com/users/DragunWF">
+    <img src="https://www.codewars.com/users/DragunWF/badges/large" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=Windows&logoColor=white">
   <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white">
   <img src="https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white">
   <img src="https://komarev.com/ghpvc/?username=DragunWF&color=007ec6&style=flat-square">
   <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/IDE-Visual_Studio-informational?style=flat&logo=visual-studio-code&logoColor=white" />
 </p>
 
 <div align="center">
