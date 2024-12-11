@@ -37,7 +37,7 @@
 - 💻 I have experience working with different **operating systems**, including `Windows`, `Linux`, and `macOS`. I’ve used **Linux distros** like `Ubuntu` and `Mint`.
 - 👾 I enjoy working on various projects in areas like *Full-Stack Web Development*, *Mobile Development*, *Game Development*, *Desktop App Development*, *Automation*, and *Database Administration*.
 - 📚 I'm an avid reader who loves books on self-improvement, productivity, and programming. Some of my all-time favorites include _Atomic Habits_, _Deep Work_, and _The Pragmatic Programmer_.
-- 🚀 You can explore a detailed list of my **skills** and **frameworks** [here](https://dragunwf.onrender.com/skills/more) _(Last updated early 2023, for recent updates, check my [LinkedIn](https://www.linkedin.com/in/marc-plarisan/))_.
+- 🚀 You can explore a detailed list of my **skills** and **frameworks** in my [Linkedin Profile](https://www.linkedin.com/in/marc-plarisan/).
 
 ---
 
