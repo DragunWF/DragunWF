@@ -32,7 +32,7 @@
 
 <h2 align="center">💡 About Me</h2>
 
-- 👨‍💻 Hello! I'm an **aspiring software developer** from the Philippines, currently pursuing a **BSIT** (3rd Year) degree, focusing on **programming and software development**. I began my college journey on **September 5, 2022**.
+- 👨‍💻 Hello! I'm an **aspiring software developer** from the Philippines, currently a 3rd Year **BSIT** student, focusing on **programming and software development**. I began my college journey on **September 5, 2022**.
 - 🔥 My favorite programming languages are `C#` and `Python`. My **preferred OS** is `macOS`.
 - 💻 I have experience working with different **operating systems**, including `Windows`, `Linux`, and `macOS`. I’ve used **Linux distros** like `Ubuntu` and `Mint`.
 - 👾 I enjoy working on various projects in areas like *Full-Stack Web Development*, *Mobile Development*, *Game Development*, *Desktop App Development*, *Automation*, and *Database Administration*.
