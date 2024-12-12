@@ -23,7 +23,7 @@
   <a href="https://dragunwf.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Personal%20Website-4285F4?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Website"></a>
   <a href="https://dragunwf.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch.io-EF4444?style=flat-square&logo=itch.io&logoColor=white" alt="Itch.io"></a>
   <a href="https://www.codewars.com/users/DragunWF" target="_blank"><img src="https://img.shields.io/badge/CodeWars-B1361E?style=flat-square&logo=codewars&logoColor=white" alt="CodeWars"></a>
-  <a href="https://monkeytype.com/profile/DragunWF" target="_blank"><img src="https://img.shields.io/badge/MonkeyType-FF4500?style=flat-square&logo=monkeytype&logoColor=white" alt="MonkeyType"></a>
+  <a href="https://data.typeracer.com/pit/profile?user=dragunwf" target="_blank"><img src="https://img.shields.io/badge/TypeRacer-FF4500?style=flat-square&logo=monkeytype&logoColor=white" alt="TypeRacer"></a>
   <a href="https://steamcommunity.com/id/dragunwf/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white" alt="Steam"></a>
   <a href="https://www.linkedin.com/in/marc-plarisan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
