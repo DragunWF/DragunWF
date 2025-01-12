@@ -50,7 +50,7 @@
 <h3 align="center">⚙️ Environment & Tools</h3>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,androidstudio,netlify,vercel,replit,vscode,visualstudio,windows,linux,ubuntu,apple&theme=dark" alt="Environment & Tools" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,androidstudio,figma,netlify,vercel,replit,vscode,visualstudio,windows,linux,ubuntu,apple&theme=dark" alt="Environment & Tools" />
 </p>
 
 ---
