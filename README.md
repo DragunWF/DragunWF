@@ -41,6 +41,18 @@
 
 ---
 
+<h2 align="center">🛠️ My Skills</h2>
+
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=py,java,cs,c,lua,md,html,css,js,nodejs,npm,git,bootstrap,jquery,react,express,flask,django,postman,firebase,mongodb,sqlite,mysql,sqlserver,selenium,androidstudio,unity,godot,pygame,netlify,vercel,replit,bash,powershell,discordjs,bots,dotnet,windows,apple,linux,ubuntu,vscode,visualstudio"
+    />
+  </a>
+</p>
+
+---
+
 <h2 align="center">🏆 CodeWars Ranking</h2>
 
 <p align="center">
