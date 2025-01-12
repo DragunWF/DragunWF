@@ -46,7 +46,7 @@
 
 <h3 align="center">🖥️ Programming, Scripting, & Markup Languages</h3>
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=py,java,cs,c,lua,js,css,html,bash,powershell&theme=dark" alt="Programming, Scripting, and Markup Languages" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=py,java,cs,c,lua,js,css,html,md,bash,powershell&theme=dark" alt="Programming, Scripting, and Markup Languages" />
 </p>
 
 <h3 align="center">🚀 Libraries & Frameworks</h3>
