@@ -34,9 +34,9 @@
 
 - 👨‍💻 Hello! I'm an **aspiring software developer** from the Philippines, currently a 3rd Year **BSIT** student, focusing on **programming and software development**. I began my college journey on **September 5, 2022**.
 - 🔥 My favorite programming languages are `C#` and `Python`. My **preferred OS** is `macOS`.
+- 📚 I'm an avid reader who loves books on self-improvement, productivity, and programming. Some of my all-time favorites include _Atomic Habits_, _Deep Work_, and _The Pragmatic Programmer_.
 - 💻 I have experience working with different **operating systems**, including `Windows`, `Linux`, and `macOS`. I’ve used **Linux distros** like `Ubuntu` and `Mint`.
 - 👾 I enjoy working on various projects in areas like *Full-Stack Web Development*, *Mobile Development*, *Game Development*, *Desktop App Development*, *Automation*, and *Database Administration*.
-- 📚 I'm an avid reader who loves books on self-improvement, productivity, and programming. Some of my all-time favorites include _Atomic Habits_, _Deep Work_, and _The Pragmatic Programmer_.
 - 🚀 You can explore a detailed list of my **skills** and **frameworks** in my [Linkedin Profile](https://www.linkedin.com/in/marc-plarisan/).
 
 ---
