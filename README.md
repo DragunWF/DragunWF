@@ -43,12 +43,21 @@
 
 <h2 align="center">🛠️ My Skills</h2>
 
+<h3 align="center">🖥️ Programming, Scripting, & Markup Languages</h3>
 <p align="center">
-  <a href="https://github.com/LelouchFR/skill-icons">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=py,java,cs,c,lua,md,html,css,js,nodejs,npm,git,github,bootstrap,jquery,react,express,flask,django,postman,figma,firebase,mongodb,sqlite,mysql,sqlserver,selenium,androidstudio,unity,godot,pygame,netlify,vercel,replit,bash,powershell,discordjs,bots,dotnet,windows,apple,linux,ubuntu,vscode,visualstudio&theme=dark"
-    />
-  </a>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=py,java,cs,c,lua,js,css,html,bash,powershell&theme=dark" alt="Programming, Scripting, and Markup Languages" />
+</p>
+
+<h3 align="center">🚀 Libraries & Frameworks</h3>
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,npm,react,bootstrap,flask,django,firebase,mongodb,sqlite,mysql,sqlserver,selenium,unity,godot,postman&theme=dark" alt="Technologies" />
+</p>
+
+<h3 align="center">⚙️ Environment & Tools</h3>
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,androidstudio,netlify,vercel,replit,vscode,visualstudio,windows,linux,ubuntu,apple&theme=dark" alt="Environment & Tools" />
 </p>
 
 ---
