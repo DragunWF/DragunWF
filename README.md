@@ -8,6 +8,10 @@
   <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode Badge" />
 </p>
 
+<p align="center">
+  Don't mind the commit count. The image is bugged at the moment. It should show 9000+ commits and a 200+ day streak.
+</p>
+
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="249" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DragunWF&layout=compact&theme=merko&langs_count=8" alt="Top Languages" />
