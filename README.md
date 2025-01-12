@@ -17,7 +17,7 @@
     <img width="249" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DragunWF&layout=compact&theme=merko&langs_count=8" alt="Top Languages" />
   </a>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    
+    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=DragunWF&theme=merko" alt="GitHub Streak" />
   </a>
 </div>
 
