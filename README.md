@@ -51,7 +51,7 @@
 <h3 align="center">🚀 Libraries & Frameworks</h3>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,npm,express,react,bootstrap,flask,django,firebase,mongodb,sqlite,mysql,sqlserver,selenium,unity,godot,postman&theme=dark" alt="Technologies" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,npm,express,react,bootstrap,flask,django,firebase,mongodb,sqlite,mysql,sqlserver,selenium,unity,godot,postman&theme=dark&perline=8" alt="Technologies" />
 </p>
 
 <h3 align="center">⚙️ Environment & Tools</h3>
