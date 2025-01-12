@@ -46,7 +46,7 @@
 <p align="center">
   <a href="https://github.com/LelouchFR/skill-icons">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=py,java,cs,c,lua,md,html,css,js,nodejs,npm,git,bootstrap,jquery,react,express,flask,django,postman,firebase,mongodb,sqlite,mysql,sqlserver,selenium,androidstudio,unity,godot,pygame,netlify,vercel,replit,bash,powershell,discordjs,bots,dotnet,windows,apple,linux,ubuntu,vscode,visualstudio"
+      src="https://go-skill-icons.vercel.app/api/icons?i=py,java,cs,c,lua,md,html,css,js,nodejs,npm,git,bootstrap,jquery,react,express,flask,django,postman,figma,firebase,mongodb,sqlite,mysql,sqlserver,selenium,androidstudio,unity,godot,pygame,netlify,vercel,replit,bash,powershell,discordjs,bots,dotnet,windows,apple,linux,ubuntu,vscode,visualstudio"
     />
   </a>
 </p>
