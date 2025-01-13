@@ -44,13 +44,13 @@
 <h3 align="center">🚀 Libraries & Frameworks</h3>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,npm,express,react,bootstrap,flask,django,firebase,mongodb,sqlite,mysql,sqlserver,selenium,unity,godot,postman&theme=dark&perline=8" alt="Technologies" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,npm,express,react,bootstrap,flask,django,firebase,mongodb,sqlite,mysql,sqlserver,selenium,unity,godot,pygame&theme=dark&perline=8" alt="Technologies" />
 </p>
 
 <h3 align="center">⚙️ Environment & Tools</h3>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,androidstudio,figma,netlify,vercel,replit,vscode,visualstudio,windows,linux,ubuntu,apple&theme=dark" alt="Environment & Tools" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,androidstudio,postman,figma,netlify,vercel,replit,vscode,visualstudio,windows,linux,ubuntu,apple&theme=dark" alt="Environment & Tools" />
 </p>
 
 ---
