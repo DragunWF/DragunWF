@@ -41,7 +41,7 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=py,java,cs,c,lua,js,css,html,md,bash,powershell&theme=dark" alt="Programming, Scripting, and Markup Languages" />
 </p>
 
-<h3 align="center">🚀 Libraries & Frameworks</h3>
+<h3 align="center">🚀 Libraries, Frameworks, & Databases</h3>
 
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,npm,express,react,bootstrap,flask,django,firebase,mongodb,sqlite,mysql,sqlserver,selenium,unity,godot,pygame&theme=dark&perline=8" alt="Technologies" />
