@@ -12,7 +12,7 @@
 
 ---
 
-<h2 align="center">🔗 Find Me Around the Web</h2>
+<h2 align="center">🔗 Links & Stats</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DragunWF&color=007ec6&style=flat-square" alt="Profile Views">
