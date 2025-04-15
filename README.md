@@ -38,7 +38,7 @@
 
 <h3 align="center">🖥️ Programming, Scripting, & Markup Languages</h3>
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=py,java,cs,c,lua,js,css,html,md,bash,powershell&theme=dark" alt="Programming, Scripting, and Markup Languages" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=py,java,cs,c,lua,js,css,html,md&theme=dark" alt="Programming, Scripting, and Markup Languages" />
 </p>
 
 <h3 align="center">🚀 Libraries, Frameworks, & Databases</h3>
@@ -50,7 +50,7 @@
 <h3 align="center">⚙️ Environment & Tools</h3>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,nodejs,npm,androidstudio,postman,figma,netlify,vercel,replit,vscode,visualstudio,windows,linux,ubuntu,apple&theme=dark&perline=8" alt="Environment & Tools" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,nodejs,npm,androidstudio,postman,figma,netlify,vercel,replit,vscode,visualstudio,windows,linux,ubuntu,apple,bash,powershell&theme=dark&perline=9" alt="Environment & Tools" />
 </p>
 
 ---
