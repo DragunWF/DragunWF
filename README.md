@@ -16,7 +16,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DragunWF&color=007ec6&style=flat-square" alt="Profile Views">
-  <a href="https://dragunwf.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Personal%20Website-4285F4?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Website"></a>
+  <a href="https://dragunwf.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Personal%20Website-4285F4?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Website"></a>
   <a href="https://dragunwf.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch.io-EF4444?style=flat-square&logo=itch.io&logoColor=white" alt="Itch.io"></a>
   <a href="https://www.codewars.com/users/DragunWF" target="_blank"><img src="https://img.shields.io/badge/CodeWars-B1361E?style=flat-square&logo=codewars&logoColor=white" alt="CodeWars"></a>
   <a href="https://data.typeracer.com/pit/profile?user=dragunwf" target="_blank"><img src="https://img.shields.io/badge/TypeRacer-FF4500?style=flat-square&logo=monkeytype&logoColor=white" alt="TypeRacer"></a>
