@@ -25,7 +25,7 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="249" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DragunWF&layout=compact&theme=merko&langs_count=8" alt="Top Languages" />
+    <img width="249" src="https://github-stats-extended.vercel.app/api/top-langs?username=DragunWF&layout=compact&theme=merko&langs_count=8" alt="Top Languages" />
   </a>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=DragunWF&theme=merko" alt="GitHub Streak" />
