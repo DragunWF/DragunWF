@@ -2,7 +2,7 @@
 
 <h2 align="center">💡 About Me</h2>
 
-- 👋 Hi there! I'm an **aspiring software developer** from the Philippines and a **4th year IT student**, specializing in **programming**, **software development**, and solving real-world problems with technology.  
+- 👋 Hi there! I'm a **Software Engineer Intern at Accenture** from the Philippines and a **4th year IT student**, specializing in **programming**, **software development**, and solving real-world problems with technology.  
 - 💻 My favorite programming languages are `C#`, `TypeScript`, and `Python`. My **preferred OS** for development is `macOS`.  
 - 🔥 I’m passionate about **game jams**, **hackathons**, **competitive programming**, and exploring problem-solving platforms like _CodeWars_, _LeetCode_, _CodeChef_, _CodeForces_, and _HackerRank_.  
 - 📚 Beyond coding, I’m an **avid reader of books** on **self-improvement**, **productivity**, and **software development**. Some personal favorites include _Atomic Habits_, _Deep Work_, and _The Pragmatic Programmer_.  
